@@ -1,0 +1,24 @@
+﻿study,factor,factor_cat,cat,unit,mean_ctrl,SD_ctrl,N_ctrl,mean_amd,SD_amd,N_amd,mean_GA,SD_GA,N_GA,mean_ctrl_sens,SD_ctrl_sens,mean_GA_sens,SD_GA_sens
+Lynch 2020a,Lynch 2020a (C3a),activation,amd,ng/ml,51.06,15.92,65,62.41,19.53,109,,,,51.06,15.92,,
+Lynch 2020a,Lynch 2020a (iC3b/C3b),neg_reg,amd,ng/ml,886.24,350.27,65,684.61,205.1,109,,,,886.24,350.27,,
+Lynch 2020a,Lynch 2020a (Ba),activation,amd,ng/ml,610.06,141.78,65,739.24,194.59,109,,,,610.06,141.78,,
+Lynch 2020a,Lynch 2020a (C5a),activation,amd,pg/ml,568.24,184.99,65,689.63,163.78,109,,,,568.24,184.99,,
+Lynch 2020a,Lynch 2020a (sC5b-9),activation,amd,ng/ml,168.59,40.18,65,184.17,41.32,109,,,,168.59,40.18,,
+Reynolds 2009,Reynolds 2009 (Bb),activation,ga,ug/ml,0.91,0.68,60,,,,1.21,1.06,58,0.82,0.19,1.05,0.3
+Reynolds 2009,Reynolds 2009 (C3a),activation,ga,ng/ml,1471.86,1052.78,60,,,,1822.83,1474.83,58,1492.21,299.67,1624.88,421.77
+Reynolds 2009,Reynolds 2009 (C5a),activation,ga,ng/ml,14,9.12,60,,,,15.59,9.12,58,14,2.59,16.68,2.61
+Reynolds 2009,Reynolds 2009 (iC3b),neg_reg,ga,ng/ml,12.83,13.67,60,,,,15.24,18.25,58,10.63,3.89,11.96,5.22
+Reynolds 2009,Reynolds 2009 (sC5b-9),activation,ga,ng/ml,400.88,340.29,60,,,,408.33,419.64,58,402.53,96.86,349.27,120.01
+Machalinska 2009,Machalinska 2009 (C3a-desArg),activation,amd,ng/ml,453.56,105.87,30,463.28,82.51,30,,,,453.56,105.87,,
+Sivaprasad 2007,Sivaprasad 2007 (C3a-desArg),activation,amd,ng/ml,35.8,23.4,38,67,59.2,42,,,,35.8,23.4,,
+Lynch 2020b,Lynch 2020b (C3a),activation,ga,ng/ml,37.41,13.77,27,,,,46.82,14.25,46,37.41,13.77,46.82,14.25
+Lynch 2020b,Lynch 2020b (sC5b-9),activation,ga,ng/ml,144.16,33.31,27,,,,172.4,49.52,46,144.16,33.31,172.4,49.52
+Lynch 2020b,Lynch 2020b (Ba),activation,ga,ng/ml,748.34,225.14,27,,,,831.23,309.34,46,748.34,225.14,831.23,309.34
+Lashkari 2020,Lashkari 2020 (CFH),neg_reg,amd,ug/ml,585.24,102.25,33,551.33,79.27,24,,,,585.24,102.25,,
+Lashkari 2020,Lashkari 2020 (CFH),neg_reg,ga,ug/ml,585.24,102.25,33,,,,613.35,125.24,37,585.24,102.25,613.35,125.24
+Lynch 2020a,Lynch 2020a (CFH),neg_reg,amd,ug/ml,222.41,42.46,65,200.46,36.81,109,,,,222.41,42.46,,
+Lynch 2020a,Lynch 2020a (CFI),neg_reg,amd,ug/ml,31,4.55,65,25.65,5.26,109,,,,31,4.55,,
+Lashkari 2018,Lashkari 2018 (CFI),neg_reg,amd,not reported,26223.73,5796.1,33,24454.11,5641.16,41,,,,26223.73,5796.1,,
+Lashkari 2018,Lashkari 2018 (CFI),neg_reg,ga,not reported,26223.73,5796.1,33,,,,26173.76,5026.51,37,26223.73,5796.1,26173.76,5026.51
+Reynolds 2009,Reynolds 2009 (CFI),neg_reg,ga,ug/ml,50.95,43.3,60,,,,41.41,21.29,58,42.43,12.32,40.32,6.09
+Reynolds 2009,Reynolds 2009 (CFH),neg_reg,ga,ug/ml,329.31,126.85,60,,,,313.74,141.4,58,315.83,36.11,294.6,40.44
